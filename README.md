@@ -8,15 +8,20 @@ Secure voting ensuring transparency.
 
 **SMART CONTRACT DEVELOPMENT**
 
-Done using solidity 
-key factors in the development are 
+Done using solidity .
+key factors in the development are;
+
 ->governance mechanism which allows users to submit proposals, vote and execute decisions.
+
 ->AI Model integration via wardens intents
+
 ->Enable cross-chain interactions via axelar using GMP  the contract will pass the voting results and execution orders between chains
 
 **Technical Requirements**
 
 -Solidity for samrt contracts.
+
 -Warden protocol for AI model integration and key management.
+
 -Axelar: cross-chain communication and governance.
 node.js/react: front end for users to interact with DApp.
